@@ -4,6 +4,12 @@
 
   </template>
 
-  <script setup></script>
+  <script setup>
+Worst films in my opinion store[
+  
+]
+</script>
 
-  <style scoped></style>]
+
+  <style scoped></style>
+
