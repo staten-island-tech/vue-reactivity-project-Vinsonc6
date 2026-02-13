@@ -5,7 +5,7 @@
   </template>
 
   <script setup>
-const HorribleMovies = [
+const HorribleFilms = [
 {name: "Big Hero Six", yearReleased: 2014, price: 6.99,},
 {name: "Finding Dory", yearReleased: 2016, price: 6.99},
 {name: "Cars 3", yearReleaed: 2017, price: 5.99},
@@ -15,8 +15,10 @@ const HorribleMovies = [
 {name: "The Good Dinosaur", yearReleased: 2015, price: 2.99},
 {name: "Shark Tale", yearReleased: 2004, price: 5.99},
 {name: "The Hangover 3", yearReleased: 2013, price:6.99},
-{name: "Ratatoing"}
+{name: "Welcome to Derry", yearReleased: 2025, price:10.99}
 ]
+
+  
 </script>
 
 
