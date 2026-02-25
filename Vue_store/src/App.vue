@@ -18,9 +18,8 @@ const HorribleFilms = [
 {name: "Welcome to Derry", yearReleased: 2025, price:10.99}
 ]
 
-  
-</script>
 
+</script>
 
   <style scoped></style>
 
