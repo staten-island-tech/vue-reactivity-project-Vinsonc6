@@ -1,5 +1,7 @@
 <template>
-  <h1>you did it></h1>
+  <h1>Movies that I dislike so you can buy!</h1>
+
+
 
 
   </template>
