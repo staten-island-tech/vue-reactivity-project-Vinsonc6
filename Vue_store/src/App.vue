@@ -1,9 +1,5 @@
 <template>
   <h1>Movies that I dislike so you can buy!</h1>
-
-
-
-
   </template>
 
   <script setup>
