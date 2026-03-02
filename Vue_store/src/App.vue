@@ -14,10 +14,16 @@ const HorribleFilms = [
 {name: "Shark Tale", yearReleased: 2004, price: 5.99},
 {name: "The Hangover 3", yearReleased: 2013, price:6.99},
 {name: "Welcome to Derry", yearReleased: 2025, price:10.99}
+{name: "Daddy Doesn't Live Here Anymore", yearReleased:2022, price:3.99}
 ]
+<script>
+<div class="container">
+  <Films name/>
+<FilmsCard v-for="film in films"/>
 
+  </div>
 
-</script>
+<style scoped>
 
-  <style scoped></style>
+</style>
 
