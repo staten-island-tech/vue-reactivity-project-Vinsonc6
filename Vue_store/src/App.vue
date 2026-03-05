@@ -1,18 +1,20 @@
 <template>
   <h1>Movies that I dislike so you can buy!</h1>
 
-
+<routerView>
+  
+</routerView>
 
 <div class="container">
-</div>
+</div id="nav">
     
   <Films name/>
 <FilmsCard v-for="film in films"/>
 
-
 </template>
 
 <script setup>
+</script>
 const HorribleFilms = [
 {name: "Big Hero Six", yearReleased: 2014, price: 6.99,},
 {name: "Finding Dory", yearReleased: 2016, price: 6.99},
@@ -26,7 +28,6 @@ const HorribleFilms = [
 {name: "Welcome to Derry", yearReleased: 2025, price:10.99},
 {name: "Daddy Doesn't Live Here Anymore", yearReleased:2022, price:3.99}
 ]
-</script>
 <style scoped>
 
 </style>
