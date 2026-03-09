@@ -1,10 +1,7 @@
 <template>
   <h1>Movies that I dislike so you can buy!</h1>
 
-
-
-
-  </template>
+</template>
 
   <script setup>
 const HorribleFilms = [
